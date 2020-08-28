@@ -9,4 +9,4 @@ let avengers = [
 
 let result = avengers.filter(hero=>hero[0].includes("a"))
 
-document.table(result);
+console.table(result);
