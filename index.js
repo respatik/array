@@ -42,7 +42,7 @@ Array pertama = [‘Math’, ‘English’, ‘Programming’]
 Array kedua = [‘Geography’, ‘Spanish’, ‘Programming’]
 Program akan mengembalikan nilai TRUE or FALSE */
 
-let firstArr = ["Math", "English", "Programming"];
+let firstSubject = ["Math", "English", "Programming"];
 let secondArr = ["Geography", "Spanish", "Programming"];
 let subject = firstArr.concat(secondArr);
 
